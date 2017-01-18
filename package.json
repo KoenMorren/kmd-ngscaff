@@ -1,0 +1,18 @@
+{
+  "name": "kmd-ngscaff",
+  "version": "1.0.3",
+  "description": "A cli tool for quickly setting up a basic Angular1 app",
+  "preferGlobal": true,
+  "bin": {
+	  "ngscaff": "./index.js"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koen Morren (@komodo)",
+  "license": "ISC"
+}
